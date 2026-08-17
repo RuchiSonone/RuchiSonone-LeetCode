@@ -7,9 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/RuchiSonone/RuchiSonone-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RuchiSonone/RuchiSonone-LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0485-max-consecutive-ones](https://github.com/RuchiSonone/RuchiSonone-LeetCode/tree/master/0485-max-consecutive-ones) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/RuchiSonone/RuchiSonone-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/RuchiSonone/RuchiSonone-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RuchiSonone/RuchiSonone-LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+## Math
+|  |
+| ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/RuchiSonone/RuchiSonone-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
